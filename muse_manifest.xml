@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.readyforthehunt.com" resolutions="1x,2x" timestamp="1496000666925">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.readyforthehunt.com" resolutions="1x,2x" timestamp="1496000815718">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="164415254" ref="index"/>
@@ -27,7 +27,7 @@
     <file name="leaf-diamond.svg" crc="426788049" ref="phone>index:index" seo="true">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="leaf-diamond_poster_.png" crc="405689331" ref="phone>index"/>
+    <file name="leaf-diamond_poster_.png" crc="316574207" ref="phone>index"/>
     <file name="checkboxunchecked.jpg" crc="4284791278" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -162,8 +162,8 @@
     <file name="wm_logo_poster_u2686.png" crc="327483370" ref="index:phone>index"/>
     <file name="bed-bath-and-beyond.svg" crc="4124304232" ref="index:phone>index"/>
     <file name="bed-bath-and-beyond_poster_u2678.png" crc="4125285989" ref="index:phone>index"/>
-    <file name="header-u1567-fr.jpg" crc="4229836707" ref="phone>index"/>
-    <file name="header-u1567-fr_2x.jpg" crc="534816195" ref="phone>index"/>
+    <file name="header-u1567-fr.jpg" crc="528344910" ref="phone>index"/>
+    <file name="header-u1567-fr_2x.jpg" crc="208500145" ref="phone>index"/>
     <file name="registry-u1659-fr.jpg" crc="4234060706" ref="phone>index"/>
     <file name="registry-u1659-fr_2x.jpg" crc="4055499825" ref="phone>index"/>
     <file name="amazon_logo_rgb-u1666-fr.jpg" crc="4263002399" ref="phone>index"/>
@@ -179,10 +179,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="106795786" ref="phone>index"/>
+      <file name="index.css" crc="3943876668" ref="phone>index"/>
       <file name="iefonts_index.css" crc="24008074" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4104427529" seo="true" mt="1496000657279" redirect="true"/>
+    <file name="index.html" crc="3934361549" seo="true" mt="1496000799736" redirect="true"/>
   </folder>
   <file name="index.html" crc="3989448637" seo="true" mt="1495999714941" redirect="true"/>
 </manifest>
