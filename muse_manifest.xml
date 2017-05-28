@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.readyforthehunt.com" resolutions="1x,2x" timestamp="1496000815718">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.readyforthehunt.com" resolutions="1x,2x" timestamp="1496001553002">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="164415254" ref="index"/>
@@ -182,7 +182,7 @@
       <file name="index.css" crc="3943876668" ref="phone>index"/>
       <file name="iefonts_index.css" crc="24008074" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3934361549" seo="true" mt="1496000799736" redirect="true"/>
+    <file name="index.html" crc="3894190792" seo="true" mt="1496001542367" redirect="true"/>
   </folder>
   <file name="index.html" crc="3989448637" seo="true" mt="1495999714941" redirect="true"/>
 </manifest>
