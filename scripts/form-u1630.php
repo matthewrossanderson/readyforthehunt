@@ -51,7 +51,7 @@ $form = array(
 			)
 		),
 		'custom_U1635' => array(
-			'order' => 5,
+			'order' => 7,
 			'type' => 'string',
 			'label' => 'COMMENTS',
 			'required' => false,
@@ -74,6 +74,24 @@ $form = array(
 			'required' => true,
 			'errors' => array(
 				'required' => 'Field \'Wedding Party\' is required.'
+			)
+		),
+		'custom_U3551' => array(
+			'order' => 5,
+			'type' => 'checkbox',
+			'label' => 'Checkbox Label',
+			'required' => true,
+			'errors' => array(
+				'required' => 'Field \'Checkbox Label\' is required.'
+			)
+		),
+		'custom_U3568' => array(
+			'order' => 6,
+			'type' => 'checkbox',
+			'label' => 'Checkbox Label',
+			'required' => true,
+			'errors' => array(
+				'required' => 'Field \'Checkbox Label\' is required.'
 			)
 		)
 	)
