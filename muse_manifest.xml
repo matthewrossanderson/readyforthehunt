@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.readyforthehunt.com" resolutions="1x,2x" timestamp="1495999730018">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.readyforthehunt.com" resolutions="1x,2x" timestamp="1496000093561">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="164415254" ref="index"/>
@@ -162,10 +162,10 @@
     <file name="wm_logo_poster_u2686.png" crc="327483370" ref="index:phone>index"/>
     <file name="bed-bath-and-beyond.svg" crc="4124304232" ref="index:phone>index"/>
     <file name="bed-bath-and-beyond_poster_u2678.png" crc="4125285989" ref="index:phone>index"/>
-    <file name="header-u1567-fr.jpg" crc="242343174" ref="phone>index"/>
-    <file name="header-u1567-fr_2x.jpg" crc="4034425619" ref="phone>index"/>
-    <file name="registry-u1659-fr.jpg" crc="247905671" ref="phone>index"/>
-    <file name="registry-u1659-fr_2x.jpg" crc="4084542492" ref="phone>index"/>
+    <file name="header-u1567-fr.jpg" crc="4229836707" ref="phone>index"/>
+    <file name="header-u1567-fr_2x.jpg" crc="534816195" ref="phone>index"/>
+    <file name="registry-u1659-fr.jpg" crc="4234060706" ref="phone>index"/>
+    <file name="registry-u1659-fr_2x.jpg" crc="4055499825" ref="phone>index"/>
     <file name="amazon_logo_rgb-u1666-fr.jpg" crc="4263002399" ref="phone>index"/>
     <file name="amazon_logo_rgb-u1666-fr_2x.jpg" crc="3897016124" ref="phone>index"/>
     <file name="theweddingday-u201-fr.jpg" crc="4204883068" ref="index"/>
@@ -179,10 +179,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="302007651" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="39592423" ref="phone>index"/>
+      <file name="index.css" crc="106795786" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="24008074" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="300923145" seo="true" mt="1495999645082" redirect="true"/>
+    <file name="index.html" crc="325354825" seo="true" mt="1496000080499" redirect="true"/>
   </folder>
   <file name="index.html" crc="3989448637" seo="true" mt="1495999714941" redirect="true"/>
 </manifest>
