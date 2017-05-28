@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.readyforthehunt.com" resolutions="1x,2x" timestamp="1496000093561">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.readyforthehunt.com" resolutions="1x,2x" timestamp="1496000666925">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="164415254" ref="index"/>
@@ -19,7 +19,7 @@
     <file name="form_throttle.php" crc="4048049783" ref="phone>index"/>
     <file name="form_process.php" crc="3899230280" ref="phone>index"/>
     <file name="form-u1630.php" crc="4273264571" ref="phone>index"/>
-    <file name="jquery.scrolleffects.js" crc="146279342" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
     <file name="require.js" crc="4234670167" ref="phone>index:index"/>
     <file name="form-u401.php" crc="436295981" ref="index"/>
   </folder>
@@ -182,7 +182,7 @@
       <file name="index.css" crc="106795786" ref="phone>index"/>
       <file name="iefonts_index.css" crc="24008074" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="325354825" seo="true" mt="1496000080499" redirect="true"/>
+    <file name="index.html" crc="4104427529" seo="true" mt="1496000657279" redirect="true"/>
   </folder>
   <file name="index.html" crc="3989448637" seo="true" mt="1495999714941" redirect="true"/>
 </manifest>
