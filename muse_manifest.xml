@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.readyforthehunt.com" resolutions="1x,2x" timestamp="1495999094052">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.readyforthehunt.com" resolutions="1x,2x" timestamp="1495999730018">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3919327023" ref="index"/>
+    <file name="index.css" crc="164415254" ref="index"/>
     <file name="iefonts_index.css" crc="4037006103" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -98,8 +98,6 @@
     <file name="header.jpg" crc="4043791113" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="leaf-diamond2.svg" crc="426788049" ref="index"/>
-    <file name="leaf-diamond_poster_u1771.png" crc="3814821752" ref="index"/>
     <file name="theweddingday.jpg" crc="17962912" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -164,10 +162,10 @@
     <file name="wm_logo_poster_u2686.png" crc="327483370" ref="index:phone>index"/>
     <file name="bed-bath-and-beyond.svg" crc="4124304232" ref="index:phone>index"/>
     <file name="bed-bath-and-beyond_poster_u2678.png" crc="4125285989" ref="index:phone>index"/>
-    <file name="header-u1567-fr.jpg" crc="3899280045" ref="phone>index"/>
-    <file name="header-u1567-fr_2x.jpg" crc="517634066" ref="phone>index"/>
-    <file name="registry-u1659-fr.jpg" crc="463686035" ref="phone>index"/>
-    <file name="registry-u1659-fr_2x.jpg" crc="3940035054" ref="phone>index"/>
+    <file name="header-u1567-fr.jpg" crc="242343174" ref="phone>index"/>
+    <file name="header-u1567-fr_2x.jpg" crc="4034425619" ref="phone>index"/>
+    <file name="registry-u1659-fr.jpg" crc="247905671" ref="phone>index"/>
+    <file name="registry-u1659-fr_2x.jpg" crc="4084542492" ref="phone>index"/>
     <file name="amazon_logo_rgb-u1666-fr.jpg" crc="4263002399" ref="phone>index"/>
     <file name="amazon_logo_rgb-u1666-fr_2x.jpg" crc="3897016124" ref="phone>index"/>
     <file name="theweddingday-u201-fr.jpg" crc="4204883068" ref="index"/>
@@ -181,10 +179,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3815936190" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="533010453" ref="phone>index"/>
+      <file name="index.css" crc="302007651" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="39592423" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="89183789" seo="true" mt="1495998801766" redirect="true"/>
+    <file name="index.html" crc="300923145" seo="true" mt="1495999645082" redirect="true"/>
   </folder>
-  <file name="index.html" crc="104221838" seo="true" mt="1495998031287" redirect="true"/>
+  <file name="index.html" crc="3989448637" seo="true" mt="1495999714941" redirect="true"/>
 </manifest>
