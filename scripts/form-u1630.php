@@ -61,37 +61,37 @@ $form = array(
 		'custom_U1643' => array(
 			'order' => 3,
 			'type' => 'checkbox',
-			'label' => 'Ceremony',
+			'label' => 'Butternut squash ravioli with mascarpone cream sauce and roasted vegetables (V)',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Ceremony\' is required.'
+				'required' => 'Field \'Butternut squash ravioli with mascarpone cream sauce and roasted vegetables (V)\' is required.'
 			)
 		),
 		'custom_U1631' => array(
 			'order' => 4,
 			'type' => 'checkbox',
-			'label' => 'Wedding Party',
+			'label' => 'Chicken breast stuffed with butternut squash and brie, mashed sweet potatoes, and roasted vegetables',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Wedding Party\' is required.'
+				'required' => 'Field \'Chicken breast stuffed with butternut squash and brie, mashed sweet potatoes, and roasted vegetables\' is required.'
 			)
 		),
 		'custom_U3551' => array(
 			'order' => 5,
 			'type' => 'checkbox',
-			'label' => 'Checkbox Label',
+			'label' => 'Braised short ribs with cranberry and shallot au jus with mashed potatoes and roasted vegetables',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Checkbox Label\' is required.'
+				'required' => 'Field \'Braised short ribs with cranberry and shallot au jus with mashed potatoes and roasted vegetables\' is required.'
 			)
 		),
 		'custom_U3568' => array(
 			'order' => 6,
 			'type' => 'checkbox',
-			'label' => 'Checkbox Label',
+			'label' => 'Children\'s Meal',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Checkbox Label\' is required.'
+				'required' => 'Field \'Children\'s Meal\' is required.'
 			)
 		)
 	)
