@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.readyforthehunt.com" resolutions="1x,2x" timestamp="1496023431576">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.readyforthehunt.com" resolutions="1x,2x" timestamp="1496085293687">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3811148837" ref="index"/>
-    <file name="iefonts_index.css" crc="3984034066" ref="index"/>
+    <file name="index.css" crc="3956887563" ref="index"/>
+    <file name="iefonts_index.css" crc="31677953" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -18,10 +18,10 @@
     <file name="form_check.php" crc="3841221102" ref="phone>index"/>
     <file name="form_throttle.php" crc="4048049783" ref="phone>index"/>
     <file name="form_process.php" crc="3899230280" ref="phone>index"/>
-    <file name="form-u1630.php" crc="3822889466" ref="phone>index"/>
+    <file name="form-u1630.php" crc="3881431118" ref="phone>index"/>
     <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
     <file name="require.js" crc="4234670167" ref="phone>index:index"/>
-    <file name="form-u401.php" crc="436295981" ref="index"/>
+    <file name="form-u401.php" crc="4148004353" ref="index"/>
   </folder>
   <folder name="images">
     <file name="leaf-diamond.svg" crc="426788049" ref="phone>index:index" seo="true">
@@ -179,10 +179,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3769842074" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="274255792" ref="phone>index"/>
+      <file name="index.css" crc="466603424" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="470532191" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3777116874" seo="true" mt="1496023374651" redirect="true"/>
+    <file name="index.html" crc="4157932943" seo="true" mt="1496085192097" redirect="true"/>
   </folder>
-  <file name="index.html" crc="462131207" seo="true" mt="1496023242957" redirect="true"/>
+  <file name="index.html" crc="69768715" seo="true" mt="1496085231953" redirect="true"/>
 </manifest>

@@ -62,36 +62,32 @@ $form = array(
 			'order' => 3,
 			'type' => 'checkbox',
 			'label' => 'Butternut squash ravioli with mascarpone cream sauce and roasted vegetables (V)',
-			'required' => true,
+			'required' => false,
 			'errors' => array(
-				'required' => 'Field \'Butternut squash ravioli with mascarpone cream sauce and roasted vegetables (V)\' is required.'
 			)
 		),
 		'custom_U496' => array(
 			'order' => 4,
 			'type' => 'checkbox',
 			'label' => 'Chicken breast stuffed with butternut squash and brie, mashed sweet potatoes, and roasted vegetables',
-			'required' => true,
+			'required' => false,
 			'errors' => array(
-				'required' => 'Field \'Chicken breast stuffed with butternut squash and brie, mashed sweet potatoes, and roasted vegetables\' is required.'
 			)
 		),
 		'custom_U3333' => array(
 			'order' => 5,
 			'type' => 'checkbox',
 			'label' => 'Braised short ribs with cranberry and shallot au jus with mashed potatoes and roasted vegetables',
-			'required' => true,
+			'required' => false,
 			'errors' => array(
-				'required' => 'Field \'Braised short ribs with cranberry and shallot au jus with mashed potatoes and roasted vegetables\' is required.'
 			)
 		),
 		'custom_U3345' => array(
 			'order' => 6,
 			'type' => 'checkbox',
 			'label' => 'Children\'s Meal',
-			'required' => true,
+			'required' => false,
 			'errors' => array(
-				'required' => 'Field \'Children\'s Meal\' is required.'
 			)
 		)
 	)

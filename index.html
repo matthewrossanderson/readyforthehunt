@@ -22,10 +22,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Jennifer &amp; Edward</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3811148837" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3956887563" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=3984034066"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=31677953"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -359,7 +359,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="clearfix colelem" id="u511-4"><!-- content -->
        <p>I'M ATTENDING:</p>
       </div>
-      <form class="form-grp clearfix colelem" id="widgetu401" method="post" enctype="multipart/form-data" action="scripts/form-u401.php"><!-- none box -->
+      <form class="form-grp clearfix colelem" id="widgetu401" method="post" enctype="multipart/form-data" action=""><!-- none box -->
        <div class="fld-grp clearfix grpelem" id="widgetu414" data-required="true"><!-- none box -->
         <label class="fld-label actAsDiv clearfix grpelem" id="u417-4" for="widgetu414_input"><!-- content --><span class="actAsPara">FULL NAME:</span></label>
         <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u415-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu414_input" name="custom_U414" tabindex="1"/><label class="wrapped-input fld-prompt" id="widgetu414_prompt" for="widgetu414_input"><span class="actAsPara">Enter Name</span></label></span>
@@ -372,42 +372,42 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <p>Submitting Form...</p>
        </div>
        <div class="clearfix grpelem" id="u412-4"><!-- content -->
-        <p>The server encountered an error.</p>
+        <p>RSVP received. Thanks!</p>
        </div>
        <div class="clearfix grpelem" id="u407-4"><!-- content -->
         <p>RSVP received. Thanks!</p>
        </div>
-       <button class="submit-btn NoWrap clearfix grpelem" id="u413-4" type="submit" value="SUBMIT" tabindex="8"><!-- content -->
+       <button onclick="postToGoogle()" class="submit-btn NoWrap clearfix grpelem" id="u413-4" type="submit" value="SUBMIT" tabindex="8"><!-- content -->
         <div style="margin-top:-16px;height:16px;">
          <p>SUBMIT</p>
         </div>
        </button>
        <div class="fld-grp clearfix grpelem" id="widgetu408" data-required="false"><!-- none box -->
         <label class="fld-label actAsDiv clearfix grpelem" id="u411-4" for="widgetu408_input"><!-- content --><span class="actAsPara">COMMENTS:</span></label>
-        <span class="fld-textarea actAsDiv clearfix grpelem" id="u409-4"><!-- content --><textarea class="wrapped-input" id="widgetu408_input" name="custom_U408" tabindex="7"></textarea><label class="wrapped-input fld-prompt" id="widgetu408_prompt" for="widgetu408_input"><span class="actAsPara">Enter Your Message</span></label></span>
+        <span class="fld-textarea actAsDiv clearfix grpelem" id="u409-4"><!-- content --><textarea class="wrapped-input" id="widgetu408_input" name="custom_U408" tabindex="7"></textarea></span>
        </div>
-       <div class="fld-grp clearfix grpelem" id="widgetu419" data-required="true" data-type="checkbox"><!-- none box -->
+       <div class="fld-grp clearfix grpelem" id="widgetu419" data-required="false" data-type="checkbox"><!-- none box -->
         <label class="fld-label actAsDiv clearfix grpelem" id="u421-4" for="widgetu419_input"><!-- content --><span class="actAsPara">Butternut squash ravioli with mascarpone cream sauce and roasted vegetables (V)</span></label>
         <div class="fld-checkbox museBGSize grpelem" id="u423"><!-- simple frame -->
          <input class="wrapped-input" type="checkbox" value="1" id="widgetu419_input" name="custom_U419" tabindex="3"/>
          <label for="widgetu419_input"></label>
         </div>
        </div>
-       <div class="fld-grp clearfix grpelem" id="widgetu496" data-required="true" data-type="checkbox"><!-- none box -->
+       <div class="fld-grp clearfix grpelem" id="widgetu496" data-required="false" data-type="checkbox"><!-- none box -->
         <label class="fld-label actAsDiv clearfix grpelem" id="u499-4" for="widgetu496_input"><!-- content --><span class="actAsPara">Chicken breast stuffed with butternut squash and brie, mashed sweet potatoes, and roasted vegetables</span></label>
         <div class="fld-checkbox museBGSize grpelem" id="u498"><!-- simple frame -->
          <input class="wrapped-input" type="checkbox" value="1" id="widgetu496_input" name="custom_U496" tabindex="4"/>
          <label for="widgetu496_input"></label>
         </div>
        </div>
-       <div class="fld-grp clearfix grpelem" id="widgetu3333" data-required="true" data-type="checkbox"><!-- none box -->
+       <div class="fld-grp clearfix grpelem" id="widgetu3333" data-required="false" data-type="checkbox"><!-- none box -->
         <label class="fld-label actAsDiv clearfix grpelem" id="u3335-5" for="widgetu3333_input"><!-- content --><span class="actAsPara">Braised short ribs with cranberry and shallot au jus with mashed potatoes and roasted vegetables</span><span class="actAsPara">&nbsp;</span></label>
         <div class="fld-checkbox museBGSize grpelem" id="u3334"><!-- simple frame -->
          <input class="wrapped-input" type="checkbox" value="1" id="widgetu3333_input" name="custom_U3333" tabindex="5"/>
          <label for="widgetu3333_input"></label>
         </div>
        </div>
-       <div class="fld-grp clearfix grpelem" id="widgetu3345" data-required="true" data-type="checkbox"><!-- none box -->
+       <div class="fld-grp clearfix grpelem" id="widgetu3345" data-required="false" data-type="checkbox"><!-- none box -->
         <label class="fld-label actAsDiv clearfix grpelem" id="u3346-5" for="widgetu3345_input"><!-- content --><span class="actAsPara">Children's Mea<span id="u3346-2">l</span></span></label>
         <div class="fld-checkbox museBGSize grpelem" id="u3347"><!-- simple frame -->
          <input class="wrapped-input" type="checkbox" value="1" id="widgetu3345_input" name="custom_U3345" tabindex="6"/>
@@ -422,7 +422,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="clearfix grpelem" id="u400-7"><!-- content -->
       <p id="u400-2">Please let us know if you can make it by September 7th.</p>
       <p id="u400-3">&nbsp;</p>
-      <p id="u400-5">If you’ll be attending, please fill out the form to let us know which events you’ll be attending and your meal preference. Feel free to reach out to us directly with any questions.</p>
+      <p id="u400-5">If you’ll be attending, please fill out the form to let us know&nbsp; your meal preference. Feel free to reach out to us directly with any questions.</p>
      </div>
      <div class="clearfix grpelem" id="u859-13"><!-- content -->
       <p>Jen's Phone: (978) 618-2804</p>
@@ -511,5 +511,62 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=4234670167" type="text/javascript" async data-main="scripts/museconfig.js?crc=4152223963" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  <script type="text/javascript">
+
+    window.postToGoogle = function (){ 
+      console.log('posting to google');
+
+
+      var fullName = "entry.1498135098"
+      var email = "entry.191624842"
+      var mealPref = "entry.877086558"
+      var comments = "entry.2606285"
+      var data = {};
+
+
+      var fullNameVal = $('#widgetu414_input').val();
+      var emailVal = $('#widgetu402_input').val();
+      var mealPrefVal = ""; 
+      if ($('#widgetu419_input').attr('checked') == "checked") {
+        mealPrefVal = mealPrefVal + "Ravioli";
+      }
+      if ($('#widgetu496_input').attr('checked') == "checked") {
+        mealPrefVal = mealPrefVal + "Chicken";
+      }
+      if ($('#widgetu3333_input').attr('checked') == "checked") {
+        mealPrefVal = mealPrefVal + "Ribs";
+      }
+      if ($('#widgetu3345_input').attr('checked') == "checked") {
+        mealPrefVal = mealPrefVal + "Children";
+      }
+
+      var commentsVal = $('#widgetu408_input').val();
+
+      data[fullName] = fullNameVal;
+      data[email] = emailVal;
+      data[mealPref] = mealPrefVal;
+      data[comments] = commentsVal;
+
+      console.log(JSON.stringify(data));
+
+      $.ajax({
+        url: "https://docs.google.com/forms/d/1kd3puKp3mZegoOCAV_Rajv3eaWXqoIO_rsfhE3wpdH4/formResponse",
+        data: data,
+        type: "POST",
+        dataType: "xml",
+        error: function(e) {
+          console.log('e');
+        },
+        statusCode: {
+            0: function() {
+                //Success message
+            },
+            200: function() {
+                //Success Message
+            }
+          }
+      });
+     }
+   </script>
    </body>
 </html>
